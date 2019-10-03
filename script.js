@@ -34,3 +34,5 @@ window.addEventListener('DOMContentLoaded', function(){ //Запускаем с�
 
     });
 });
+
+//спасибо за внимание :)
